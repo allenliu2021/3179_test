@@ -1,0 +1,33 @@
+location,vaccine,total_vaccinations
+United States,Johnson&Johnson,15178784
+United States,Moderna,152840025
+United States,Pfizer/BioNTech,233393286
+South Korea,Johnson&Johnson,1458734
+South Korea,Moderna,8569960
+South Korea,Oxford/AstraZeneca,21756563
+South Korea,Pfizer/BioNTech,36987330
+Japan,Moderna,5687427
+Japan,Pfizer/BioNTech,86647668
+France,Johnson&Johnson,1043008
+France,Moderna,10660616
+France,Oxford/AstraZeneca,7791020
+France,Pfizer/BioNTech,76440096
+Germany,Johnson&Johnson,3229761
+Germany,Moderna,9694794
+Germany,Oxford/AstraZeneca,12697608
+Germany,Pfizer/BioNTech,83365373
+Italy,Johnson&Johnson,1481266
+Italy,Moderna,10911573
+Italy,Oxford/AstraZeneca,12152060
+Italy,Pfizer/BioNTech,61656856
+Spain,Johnson&Johnson,1964525
+Spain,Moderna,8300779
+Spain,Oxford/AstraZeneca,9776925
+Spain,Pfizer/BioNTech,45808954
+Sweden,Moderna,1710041
+Sweden,Oxford/AstraZeneca,1329940
+Sweden,Pfizer/BioNTech,10279797
+Poland,Johnson&Johnson,2011040
+Poland,Moderna,3034927
+Poland,Oxford/AstraZeneca,5280362
+Poland,Pfizer/BioNTech,25798967
